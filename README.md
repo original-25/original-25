@@ -1,4 +1,6 @@
 
+Hi, I'm Nguyen Tran, a passionate student at Ha Noi University of Science and Technology, deeply interested in ML, AI, DS, and exploring various technologies to innovate and solve real-world problems.
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyn.original04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/original04/) 
 
